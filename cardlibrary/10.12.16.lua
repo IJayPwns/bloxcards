@@ -3099,7 +3099,7 @@ local tentwelvesixteen = { -- CARD_ID, NAME, POWER, HEALTH, RARITY,BIO
 	},
 	
 	["elioofsheep"] = {
-		["Id"] = 1008092198,
+		["Id"] = 1041439488,
 		["Name"] = "elioofsheep",
 		["Health"] = 550,
 		["Power"] = 400,
