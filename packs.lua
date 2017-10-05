@@ -386,6 +386,7 @@ local packs = {
 			"Dignity",
 			"Fave",
 			"Exine",
+			"how_inconvenient",
 			"Bloxy Victory",
 		},
 	}; 
@@ -1067,7 +1068,7 @@ local packs = {
 			"Has",
 			"RaveTea",
 			"Fate_Sealed",
-
+			"how_inconvenient",
 			"Wingman8",
 			"Games",
 			"CanadianSanic",
