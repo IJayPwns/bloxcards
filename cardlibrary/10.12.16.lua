@@ -3078,25 +3078,6 @@ local tentwelvesixteen = { -- CARD_ID, NAME, POWER, HEALTH, RARITY,BIO
 		["Bio"] = "Green cards and blue cards AREN'T basically the same thing.",
 	},
 	
-	["elioofsheep"] = {
-		["Id"] = 1041439488,
-		["Name"] = "elioofsheep",
-		["Health"] = 600,
-		["Power"] = 400,
-		["Rarity"] = "Common",
-		["AttackEffect"] = "Punch1",
-		["Color"] = "Yellow",
-		["Cost"] = {["Yellow"] = 3,}, 
-		["Effect"] = {
-			Name = "Child Play",
-			Description = "Generate a white icon.",
-			["Type"] = "OnSummon",
-			["Power"] = {{"Neutral",1}},
-			Target = "Ally",
-		},
-		["Bio"] = "GET OUT OF MY ROOM I'M PLAYING BLOX CARDS.",
-	},
-	
 	["Blitzwolfer"] = {
 		["Id"] = 1008092198,
 		["Name"] = "Blitzwolfer",
