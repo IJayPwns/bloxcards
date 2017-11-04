@@ -3098,6 +3098,5 @@ local tentwelvesixteen = { -- CARD_ID, NAME, POWER, HEALTH, RARITY,BIO
 		["Bio"] = "A BLOX CARDS contributor. A BLOX CARDS artist. A BLOX CARDS Wikia owner. A BLOX CARDS Hero.",
 	},
 
-
 }
 return tentwelvesixteen
