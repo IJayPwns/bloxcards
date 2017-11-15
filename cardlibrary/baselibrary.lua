@@ -11312,7 +11312,7 @@ local base = { -- CARD_ID, NAME, POWER, HEALTH, RARITY,BIO
 				["Rarity"] = "Legendary",
 				["Effect"] = {
 					Name = "MOO!",
-					Description = "Deal 2 damage to a target fighter.",
+					Description = "ULTIMATE ETHEREAL MOO!",
 					Type = "OnSummon",
 					Power = "Damage",
 					Target = "Single",
@@ -11330,7 +11330,7 @@ local base = { -- CARD_ID, NAME, POWER, HEALTH, RARITY,BIO
 		["Cost"] = {["Neutral"] = 5,},
 		["Effect"] = {
 			Name = "MOO!",
-			Description = "Deal 1 damage to a target fighter.",
+			Description = "Moo.",
 			Type = "OnSummon",
 			Power = "Damage",
 			Target = "Single",
