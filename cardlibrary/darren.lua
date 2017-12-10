@@ -1,21 +1,21 @@
 local dairy = {	
-	["Brown Dairy Supply"] = {
-		["Id"] = 581854933,
-		["Name"] = "Brown Dairy Supply",
-		["Health"] = 0,
-		["Power"] = 0,
-		["Rarity"] = "Rare",
+	["darren5996"] = {
+		["Id"] = 11455057,
+		["Name"] = "darren5996",
+		["Health"] = 400,
+		["Power"] = 300,
+		["Rarity"] = "Legendary",
 		["AttackEffect"] = "Null",
-		["Color"] = "Neutral",
-		["Cost"] = {["Neutral"] = 4,},
+		["Color"] = "Blue",
+		["Cost"] = {["Blue"] = 3,},
 		["Effect"] = {
-			Name = "moo",
-			Description = "Give all fighters 200 health. Both players summon a cow, and shuffle a cow into their deck.",
+			Name = "darren5996",
+			Description = "Give all allied fighters 500 health.",
 			["Type"] = "OnSummon",
-			["Power"] = {{"Heal",200},{"Summon","Cow","Ally"},{"Summon","Cow","Opponent"},{"DeckAdd","Cow","Ally"},{"DeckAdd","Cow","Opponent"}},
-			Target = "All",
+			["Power"] = {{"Heal","Ally",500}},
+			Target = "Ally",
 		},
-		["Bio"] = "Nobody knows where he gets all that brown dairy from...",
+		["Bio"] = "Just a lonely fisherman fishing for his entire life on his old sailboat.",
 	}, 
 		
 	["Armed Thief"] = {
